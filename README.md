@@ -4,5 +4,5 @@ This is a crud app where we add customer details, read customer details, update 
 And also we add one database through JavaScript. Where we do all CRUD function on this app.
 
 ## ScreenShot
-![LoginPage](https://github.com/kushmahi21/CURD_App/blob/main/customerapps1/scrrenshot/login.JPG)
-![CustomerDetails](https://github.com/kushmahi21/CURD_App/blob/main/customerapps1/scrrenshot/main.JPG)
+![LoginPage](https://github.com/kushmahi21/CURD_App/blob/main/scrrenshot/login.JPG)
+![CustomerDetails](https://github.com/kushmahi21/CURD_App/blob/main/scrrenshot/main.JPG)
